@@ -1,1 +1,19 @@
-Testing
+This is the Notices of SpiderViewer:
+There were serveral content about this updatas:
+1.The SpideViewer was updataing by version 1.3.0
+2.Updata serveral new things:
+	A.Updata HelpingBox
+	B.Add NoticeBox just like you see
+	C.Add New command:!S.It can match the words of the websites or replace them
+	D.Fill the VariablesBox.
+3.Updata at the next time:
+	A.Fix serveral bugs
+	B.Add SettingBox
+	C.Create new console files.Let the app control easily
+
+
+June.17th 0:46 2023
+CODER_BY:SupnaOnUbuntu
+GITHUB:SupnaOnUbuntu
+WeChat:imhkbYHY
+Bilibili:HKRequestGet
