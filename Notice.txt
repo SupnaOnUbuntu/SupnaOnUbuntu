@@ -6,7 +6,7 @@ There were serveral content about this updatas:
 	B.Add NoticeBox just like you see
 	C.Add New command:!S.It can match the words of the websites or replace them
 	D.Fill the VariablesBox.
-3.Updata at the next time:
+3.Updata at the next time----------(SpiderNoObject 1.4.0):
 	A.Fix serveral bugs
 	B.Add SettingBox
 	C.Create new console files.Let the app control easily
