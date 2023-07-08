@@ -10,6 +10,11 @@ There were serveral content about this updatas:
 	A.Fix serveral bugs
 	B.Add SettingBox
 	C.Create new console files.Let the app control easily
+	D.Add a new control box's code----!R
+		!R{
+		~View the website's Robots.txt
+		~Show the websites which you can got or you can't got
+	}
 
 
 June.17th 0:46 2023
